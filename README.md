@@ -1,5 +1,5 @@
 
-<font size="7">  
+<font size="40">  
 BMI Calculator.   
 </font>  
 
