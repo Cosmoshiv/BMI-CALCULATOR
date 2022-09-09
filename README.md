@@ -1,7 +1,5 @@
 
-<font size="40">  
-BMI Calculator.   
-</font>  
+<p style="font-size:30px ; "> BMI Calculator.  </p>
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/91149068/189434698-4fd279e3-d6c9-4d84-8e85-4ac1b5037c13.png" width="200" height="400" />
