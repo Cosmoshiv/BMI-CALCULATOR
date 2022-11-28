@@ -1,4 +1,4 @@
-BMI CALULATOR.
+# BMI CALULATOR.
 
 I have make a Body Mass Index Calculator APP. It is multi screen app with simple functionality but full-on custom styling.
 
